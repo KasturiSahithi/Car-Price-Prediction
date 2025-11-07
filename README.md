@@ -16,7 +16,7 @@ Build an end-to-end regression model to predict used car prices accurately using
 
 ## 📊 Dataset
 - **Source:** [CarDekho Dataset on Kaggle](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)  
-- **File Used:**  
+- **File Used:** ('https://github.com/KasturiSahithi/Car-Price-Prediction/blob/main/datasets/CAR%20DETAILS%20FROM%20CAR%20DEKHO.csv')
 - **Size:** ~4,000 records  
 - **Target Variable:** `Selling_Price`  
 - **Key Features:**
