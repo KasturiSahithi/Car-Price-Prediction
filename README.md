@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Machine Learning regression project predicting used car resale prices using real-world dataset from CarDekho.
+Predicting the resale price of used cars using machine learning based on features like car age, mileage, fuel type, and transmission.
