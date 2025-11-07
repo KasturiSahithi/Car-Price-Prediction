@@ -15,8 +15,8 @@ This project applies **supervised machine learning (regression)** to predict the
 Build an end-to-end regression model to predict used car prices accurately using feature engineering, model evaluation, and visualization.
 
 ## 📊 Dataset
-- **Source:** [CarDekho Dataset on Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)  
-- **File Used:** `dataset/CAR DETAILS FROM CAR DEKHO.csv`  
+- **Source:** [CarDekho Dataset on Kaggle](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)  
+- **File Used:**  
 - **Size:** ~4,000 records  
 - **Target Variable:** `Selling_Price`  
 - **Key Features:**
