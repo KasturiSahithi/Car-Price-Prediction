@@ -1,5 +1,3 @@
-# Car-Price-Prediction
-Predicting the resale price of used cars using machine learning based on features like car age, mileage, fuel type, and transmission.
 
 # Car Price Prediction using Machine Learning
 
@@ -34,9 +32,8 @@ Build an end-to-end regression model to predict used car prices accurately using
 - pandas, numpy  
 - matplotlib, seaborn  
 - scikit-learn  
-- joblib  
-
----
+- joblib
+- 
 
 ## 🧠 Workflow
 1. **Data Preprocessing**
@@ -65,7 +62,7 @@ Build an end-to-end regression model to predict used car prices accurately using
 | Ridge Regression | 0.87 | 1.00 | 1.70 |
 | Random Forest Regressor | **0.91** | **0.80** | **1.50** |
 
-✅ **Random Forest Regressor** achieved the best accuracy and generalization.
+ **Random Forest Regressor** achieved the best accuracy and generalization.
 
 ---
 
@@ -85,8 +82,10 @@ Build an end-to-end regression model to predict used car prices accurately using
 
 ---
 
-## 🚀 How to Run the Project
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/car-price-prediction.git
-cd car-price-prediction
+## 👩‍💻 Author
+
+**Kasturi Sahithi**  
+📧 kasturisahithi068@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/kasturi-sahithi)  
+💻 [GitHub](https://github.com/KasturiSahithi)  
+
