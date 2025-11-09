@@ -25,7 +25,6 @@ Build an end-to-end regression model to predict used car prices accurately using
   - `Transmission`
   - `Owner`
 
----
 
 ## ⚙️ Tools & Libraries
 - Python 3  
@@ -33,7 +32,7 @@ Build an end-to-end regression model to predict used car prices accurately using
 - matplotlib, seaborn  
 - scikit-learn  
 - joblib
-- 
+  
 
 ## 🧠 Workflow
 1. **Data Preprocessing**
@@ -53,7 +52,6 @@ Build an end-to-end regression model to predict used car prices accurately using
    - Actual vs Predicted plot  
    - Error distribution  
 
----
 
 ## 📈 Model Performance
 | Model | R² Score | MAE | RMSE |
@@ -64,7 +62,6 @@ Build an end-to-end regression model to predict used car prices accurately using
 
  **Random Forest Regressor** achieved the best accuracy and generalization.
 
----
 
 ## 🖼 Visualizations
 
@@ -72,7 +69,6 @@ Build an end-to-end regression model to predict used car prices accurately using
 |--------------------|--------------------|--------------------|
 | ![Feature Importance](images/feature_importance.png) | ![Actual vs Predicted](images/actual_vs_predicted.png) | ![Error Distribution](images/error_distribution.png) |
 
----
 
 ## 💡 Key Insights
 - **Car Age** and **Kms Driven** are the most influential features — older and high-mileage cars lose value faster.  
@@ -80,12 +76,9 @@ Build an end-to-end regression model to predict used car prices accurately using
 - **Automatic transmission** vehicles generally have higher resale value.  
 - Model achieved R² ≈ **0.91**, which means predictions closely match real-world prices.
 
----
-
 ## 👩‍💻 Author
 
 **Kasturi Sahithi**  
 📧 kasturisahithi068@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/kasturi-sahithi)  
 💻 [GitHub](https://github.com/KasturiSahithi)  
-
